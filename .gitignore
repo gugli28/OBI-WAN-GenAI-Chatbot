@@ -1,0 +1,7 @@
+/venv/env/bin/
+/venv/env/google-cloud-sdk/
+/venv/env/lib/python3.9/site-packages
+venv/.DS_Store
+venv/env/.DS_Store
+venv/env/HackathonOpenAI/.DS_Store
+.DS_Store

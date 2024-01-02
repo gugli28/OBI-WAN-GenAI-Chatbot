@@ -1,0 +1,39 @@
+{'query': 'What are the requirements for a dynamic segmentation offer?', 'answer': 'Dynamic segmentation is dependent on how the product selection for an offer has been defined. Following product selection configuration are of dynamic segmentation type: Following product selection configuration are NOT of dynamic segmentation type:'}
+{'query': 'What is the difference between a dynamic offer and a deferred give away offer?', 'answer': 'Dynamic offers are based on system events, while deferred give away offers are based on transaction based promise call out offers.'}
+{'query': 'What is the formula for calculating the FK Target Price?', 'answer': 'FK Target Price = FKFP - TD'}
+{'query': 'What is the SLA for creating a shipping rule?', 'answer': '48 hours / 2 working days.'}
+{'query': 'What is the name of the document?', 'answer': 'SOP for Shipping Rule Creation'}
+{'query': 'What are the 3 ways to increase GMV?', 'answer': '# of customers, Average order value, Transactions per customer'}
+{'query': 'What are the different types of offers?', 'answer': 'There are 3 types of offers: 1. Bank offers 2. Exchange offer/Prexo bump offer 3. Listing Discounts'}
+{'query': 'What are the 3 types of offers?', 'answer': 'BGM, Lifestyle, and Shipping.'}
+{'query': 'What is the minimum number of products that a customer must buy to suffice the value based basket offer hurdle?', 'answer': '2'}
+{'query': 'What is the difference between a BmGn offer and a Prexo Bump Up offer?', 'answer': 'BmGn offer is a discount offer that is applied on the product price. Prexo Bump Up offer is a discount offer that is applied on the exchange value of the product.'}
+{'query': 'What are the two types of offers?', 'answer': 'Cash and Coins offers and Combo offers.'}
+{'query': 'What is the difference between a Promise Callout Offer and an Incentived Attach Offer?', 'answer': 'Promise Callout Offer is a transaction based offer with a deferred giveaway. Incentived Attach Offer is a multi product group offer that has a hurdle on 1 product group, and a giveaway on a different product group.'}
+{'query': 'What are the two types of shipping offers?', 'answer': 'Listing Shipping Offers and Basket Shipping Offers.'}
+{'query': 'What is the minimum group size for a group buying offer?', 'answer': 'Minimum group size would be fixed for categories and cannot be selected/changed on grumbles UI.'}
+{'query': 'What is a seller recommendation?', 'answer': 'A seller recommendation is a proposal from the offer creator to the seller to include/exclude a specific set of products while participating in an offer.'}
+{'query': 'What is the first step in creating a seller recommendation?', 'answer': 'Click the Create Seller Recommendation button.'}
+{'query': 'What is the last step in the process of creating a seller recommendation?', 'answer': 'Click on Update Offer post verification.'}
+{'query': 'What is the name of the option that allows offer creators to recommend the FSNs that should not be part of the offer?', 'answer': 'Blacklist Seller Recommendation'}
+{'query': 'What is the name of the option that allows offer creators to recommend all eligible SKUs to the seller?', 'answer': 'All Eligible SKUs'}
+{'query': 'What is the deadline for editing a seller recommendation?', 'answer': 'Until the offer expires.'}
+{'query': 'What is the first step in editing a seller recommendation?', 'answer': 'Include more FSns to existing white list seller recommendation.'}
+{'query': 'What is the difference between a white list and a black list recommendation?', 'answer': 'A white list recommendation allows a seller to opt in to an offer, while a black list recommendation allows a seller to opt out of an offer.'}
+{'query': 'What is the difference between a black list and a white list?', 'answer': 'A black list is a list of products that are not eligible for an offer, while a white list is a list of products that are eligible for an offer.'}
+{'query': 'What is the first step in editing an all eligible fsn seller recommendation?', 'answer': 'Changing the all eligible fsn recommendation to blacklist seller recommendation.'}
+{'query': 'What is the name of the screen that the offer approver uses to approve a seller recommendation?', 'answer': 'Seller Recommendation for an Offer.pdf'}
+{'query': 'What is the name of the screen that is shown to the approver?', 'answer': 'A p p r o v e r\\nS c r e e n\\nf o r\\na\\nW h i t e l i s t\\nS e l l e r\\nR e c o m m e n d a t i o n\\n:\\nS a m p l e\\nS n a p s h o t\\no f\\nD o w n l o a d e d\\nﬁ l e\\'}
+{'query': 'What is the status of a recommendation?', 'answer': 'A recommendation can have one of the following 3 statuses:'}
+{'query': 'What are the three statuses of a seller recommendation?', 'answer': 'Completed, Processing, and Pending.'}
+{'query': 'What is the first step to getting Grumbles access?', 'answer': 'Write to askit@flipkart.com with approval from your reporting manager.'}
+{'query': 'What are the different types of offers?', 'answer': 'Conditional offers are extra incentives provided to the customer if they fulfill the criteria of purchase specified in the offer.'}
+{'query': 'What are the two types of offers?', 'answer': 'Single seller and market place offers.'}
+{'query': 'What is the minimum time between offer creation time and offer start time?', 'answer': 'At least 4 hours.'}
+{'query': 'What are the 3 pivots that can be used to define the selection on which the offer should be created?', 'answer': 'Verticals, Categories, and Uploaded FSNs.'}
+{'query': 'What is the first step in creating a white list offer?', 'answer': 'Select the offer type.'}
+{'query': 'What is the default TnC based on?', 'answer': 'The default TnC is based on the offer type.'}
+{'query': 'Who is responsible for approving offers?', 'answer': "The offer creator's L1 manager is responsible for approving all offers except DOTD and DOTH offers, which are approved by the central team. Targeted offers are approved by a TD approvers group containing POCs from all BUs."}
+{'query': 'What are the access restrictions based on?', 'answer': 'There are no access restrictions based on market place/BU etc.'}
+{'query': 'What is the first step in the process of creating an offer?', 'answer': 'Click on the "Create Offer" button.'}
+{'query': 'What is the minimum time between the start of an offer and the start of a pause?', 'answer': '5 minutes'}
